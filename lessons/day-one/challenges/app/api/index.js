@@ -129,4 +129,9 @@ apiRouter.get("/dns", async (req, res) => {
   }
 });
 
+apiRouter.post("/login", (_, res) => {
+  const [user] = getUsers(1);
+  return res.status(200).json(user);
+});
+
 module.exports = apiRouter;

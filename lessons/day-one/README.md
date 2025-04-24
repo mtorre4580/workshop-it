@@ -6,6 +6,7 @@
   - https://www.youtube.com/watch?v=Dxcc6ycZ73M
   - https://www.youtube.com/watch?v=AYdF7b3nMto
   - https://www.youtube.com/watch?v=qmpUfWN7hh4
+  - https://www.youtube.com/watch?v=j9QmMEWmcfo
 - Understand the concept of DNS (Domain Name System)
 - Understand the concept of IP (Internet Protocol)
 - Understand the concept of TCP (Transmission Control Protocol)
