@@ -34,9 +34,9 @@
   - 4xx Client Error
   - 5xx Server Error
 
-<img src="https://github.com/mtorre4580/workshop-it/blob/main/docs/dns-works.png" alt="how dns works" /> 
 
-<img src="https://github.com/mtorre4580/workshop-it/blob/main/docs/http-status-code.png" alt="status code" />
+<img src="https://github.com/mtorre4580/workshop-it/blob/main/lessons/day-one/docs/dns-works.png" alt="how dns works" /> 
+<img src="https://github.com/mtorre4580/workshop-it/blob/main/lessons/day-one/docs/http-status-code.png" alt="status code" />
 
 ## Take home
 
@@ -81,8 +81,8 @@
   - 4xx Client Error
   - 5xx Server Error
 
-<img src="https://github.com/mtorre4580/workshop-it/blob/main/docs/dns-works.png" alt="how dns works" />
-<img src="https://github.com/mtorre4580/workshop-it/blob/main/docs/http-status-code.png" alt="status code" />
+<img src="https://github.com/mtorre4580/workshop-it/blob/main/lessons/day-one/docs/dns-works.png" alt="how dns works" /> 
+<img src="https://github.com/mtorre4580/workshop-it/blob/main/lessons/day-one/docs/http-status-code.png" alt="status code" />
 
 ## Take home
 
