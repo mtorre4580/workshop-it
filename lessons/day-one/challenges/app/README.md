@@ -10,8 +10,8 @@ First app to understand
 
 ## How to run
 
-- Instalar dependencias `npm i`
-- Correr la app `npm start`
+- Install dependencies `npm i`
+- Run the app `npm start`
 
 ## API
 

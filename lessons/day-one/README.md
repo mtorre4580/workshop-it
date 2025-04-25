@@ -35,7 +35,6 @@
   - 4xx Client Error
   - 5xx Server Error
 
-
 <img src="https://github.com/mtorre4580/workshop-it/blob/main/lessons/day-one/docs/dns-works.png" alt="how dns works" /> 
 <img src="https://github.com/mtorre4580/workshop-it/blob/main/lessons/day-one/docs/http-status-code.png" alt="status code" />
 
@@ -54,6 +53,7 @@
   - https://www.youtube.com/watch?v=Dxcc6ycZ73M
   - https://www.youtube.com/watch?v=AYdF7b3nMto
   - https://www.youtube.com/watch?v=qmpUfWN7hh4
+  - https://www.youtube.com/watch?v=j9QmMEWmcfo
 - Conocer el concepto de DNS (Domain Name System)
 - Conocer el concepto de IP (Internet Protocol)
 - Conocer el concepto de TCP (Tramision Protocol)

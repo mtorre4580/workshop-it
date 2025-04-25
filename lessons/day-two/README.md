@@ -13,8 +13,6 @@
 
 https://github.com/skills/introduction-to-github
 
-https://education.github.com/git-cheat-sheet-education.pdf
-
 ## Sistema de control de versiones (VCS)
 
 - Videos
@@ -27,6 +25,4 @@ https://education.github.com/git-cheat-sheet-education.pdf
 - Seguir el curso de https://skills.github.com
 
 https://github.com/skills/introduction-to-github
-
-https://education.github.com/git-cheat-sheet-education.pdf
 
