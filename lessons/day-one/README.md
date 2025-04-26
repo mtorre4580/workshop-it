@@ -7,6 +7,7 @@
   - https://www.youtube.com/watch?v=AYdF7b3nMto
   - https://www.youtube.com/watch?v=qmpUfWN7hh4
   - https://www.youtube.com/watch?v=j9QmMEWmcfo
+  - https://www.youtube.com/watch?v=iP75a1Y9saY
 - Understand the concept of DNS (Domain Name System)
 - Understand the concept of IP (Internet Protocol)
 - Understand the concept of TCP (Transmission Control Protocol)
@@ -42,6 +43,7 @@
 
 - Difference between HTTP and HTTPS
 - What SSL/TLS is
+- What is CDN
 
 ---
 
@@ -89,3 +91,5 @@
 
 - Diferencia entre http vs https
 - Que es SSL/TLS
+- Que es CDN
+
