@@ -13,6 +13,10 @@
 
 https://github.com/skills/introduction-to-github
 
+---
+
+# Dia 2
+
 ## Sistema de control de versiones (VCS)
 
 - Videos
