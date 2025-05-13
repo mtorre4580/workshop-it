@@ -4,20 +4,21 @@
 
 - Videos
     - https://www.youtube.com/watch?v=zsjvFFKOm3c
-    - https://www.youtube.com/watch?v=GAe5oB742dw
     - https://www.youtube.com/watch?v=_vxobA36UN4
     - https://www.youtube.com/watch?v=ULdVndYtdYs
+    - https://www.youtube.com/watch?v=GAe5oB742dw
 
 - Understand the basic commands for query
     - SELECT
     - WHERE
     - GROUP BY
     - HAVING
-    - ORDER
+    - ORDER BY
     - LIMIT
     - DISTINCT
 
 - Understand the basic commands for manipulation
+    - CREATE
     - DELETE
     - DROP
     - ALTER
